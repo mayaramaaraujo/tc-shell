@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(expr 128 + $TRUEKNOWLEDGE)
+echo -e "128\n"$(expr 128 + $TRUEKNOWLEDGE)

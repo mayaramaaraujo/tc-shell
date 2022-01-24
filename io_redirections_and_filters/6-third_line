@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n iacta_0 | grep "13"
+cat -n iacta | grep "3"
